@@ -1,0 +1,3 @@
+prompt = ">"
+print("Enter your age:")
+input(prompt)
